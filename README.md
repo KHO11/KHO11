@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning on typescript and github pages/netifly to deploy applictions
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me : kevhydeopoku@gmail.com
+- 2021 goals: Contribute more to open source projects.
+- Fun fact: I love to play tennis as a hobby.
 
 <!---
 KHO11/KHO11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
