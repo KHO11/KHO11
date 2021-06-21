@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KHO11
 - 👀 I’m interested in software development and coding
-- 🌱 I’m currently learning on typescript
-- 💞️ I’m looking to collaborate on multiple projects with other developers
+- 🌱 I’m currently learning on typescript and github pages/netifly to deploy applictions
+- 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me : kevhydeopoku@gmail.com
 
 <!---
