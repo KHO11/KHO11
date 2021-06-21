@@ -6,6 +6,10 @@
 - 2021 goals: Contribute more to open source projects.
 - Fun fact: I love to play tennis as a hobby.
 
+Languages/ tools used:
+
+HTML, CSS, JavaScript, React Js, PHP, C# SASS, TypeScript, wordpress, MySQL, Node Js
+
 <!---
 KHO11/KHO11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
