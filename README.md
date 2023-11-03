@@ -8,7 +8,7 @@
 
 Languages/ tools used:
 
-HTML, CSS, JavaScript, React Js, Redux, PHP, C#, SCSS, TypeScript, wordpress, MySQL, ASP.NET, .NET CORE
+HTML, CSS, JavaScript, React Js, Redux, REST API PHP, C#, SCSS, TypeScript, wordpress, MySQL, ASP.NET, .NET CORE
 
 <!---
 KHO11/KHO11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
