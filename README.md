@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @KHO11
 - 👀 I’m interested in software development and coding
-- 🌱 I’m currently learning on typescript and github pages/netifly to deploy applictions
+- 🌱 I’m currently learning on typescript along with upskilling in other tech stacks and github pages/netifly to deploy applictions
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me : kevhydeopoku@gmail.com
-- 2021 goals: Contribute more to open source projects.
+- goals: Contribute more to open source projects.
 - Fun fact: I love to play tennis as a hobby.
 
 Languages/ tools used:
